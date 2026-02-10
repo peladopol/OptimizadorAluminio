@@ -56,6 +56,7 @@ C:\Users\pelad\source\repos\OptimizadorAluminio\OptimizadorAluminio\obj\Debug\ne
 C:\Users\pelad\source\repos\OptimizadorAluminio\OptimizadorAluminio\obj\Debug\net8.0-windows\OptimizadorAluminio.AssemblyInfoInputs.cache
 C:\Users\pelad\source\repos\OptimizadorAluminio\OptimizadorAluminio\obj\Debug\net8.0-windows\OptimizadorAluminio.AssemblyInfo.cs
 C:\Users\pelad\source\repos\OptimizadorAluminio\OptimizadorAluminio\obj\Debug\net8.0-windows\OptimizadorAluminio.csproj.CoreCompileInputs.cache
+C:\Users\pelad\source\repos\OptimizadorAluminio\OptimizadorAluminio\obj\Debug\net8.0-windows\OptimizadorAluminio.sourcelink.json
 C:\Users\pelad\source\repos\OptimizadorAluminio\OptimizadorAluminio\obj\Debug\net8.0-windows\Optimiza.6291BC37.Up2Date
 C:\Users\pelad\source\repos\OptimizadorAluminio\OptimizadorAluminio\obj\Debug\net8.0-windows\OptimizadorAluminio.dll
 C:\Users\pelad\source\repos\OptimizadorAluminio\OptimizadorAluminio\obj\Debug\net8.0-windows\refint\OptimizadorAluminio.dll

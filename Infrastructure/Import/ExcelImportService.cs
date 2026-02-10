@@ -36,6 +36,7 @@ public class ExcelImportService
 
                 tramos.Add(new Tramo
                 {
+                    CodigoPerfil = codigoPerfil,
                     LargoMM = largo,
                     AnguloIzquierdo = ParseAngulo(angIzq),
                     AnguloDerecho = ParseAngulo(angDer)
@@ -51,6 +52,7 @@ public class ExcelImportService
 
         return tramos;
     }
+    
 
     private static void ValidarFila(
         int fila,
@@ -75,5 +77,9 @@ public class ExcelImportService
     }
 
     private static CorteAngulo ParseAngulo(int angulo)
-        => angulo == 45 ? CorteAngulo.Grados45 : CorteAngulo.Grados90;
+    {
+    return angulo == 45
+        ? CorteAngulo.Grados45
+        : CorteAngulo.Grados90;
+    }
 }
