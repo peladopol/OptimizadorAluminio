@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="OptimizadorAluminio.UI.Controls.CortesCanvas"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="Auto" Width="Auto">
+    <ScrollViewer HorizontalScrollBarVisibility="Auto"
+                  VerticalScrollBarVisibility="Auto">
+        <Canvas x:Name="RootCanvas" Background="White"/>
+    </ScrollViewer>
+</UserControl>
